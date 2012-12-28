@@ -76,7 +76,6 @@ function gps2Num($coordPart) {
 <h1>My Travel Route so far!</h1>
 <div id="map" style="width: 800px; height: 600px;">No data found.</div>
 <?php
-echo '<pre>';
 if(isset($images) && !empty($images)) {
 ?>
 <script>
